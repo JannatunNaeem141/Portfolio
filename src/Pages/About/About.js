@@ -1,9 +1,28 @@
 import React from 'react';
+import profile2 from '../../images/Profile2.jpg';
+import './About.css';
 
 const About = () => {
     return (
-        <div className='h-screen max-w-7xl mx-auto'>
-            <h2>This is About page.</h2>
+        <div className='h-screen max-w-7xl mx-auto flex items-center justify-center'>
+            <div className='flex'>
+                <div className='w-2/5'>
+                    <div className='imgBox float-right'>
+                        <img src={profile2} alt="Profile-Pic" />
+                    </div>
+                </div>
+                <div className='w-3/5 ml-5 text-accent'>
+                    <p>Hi! My name is Naeem. I am a full-stack web developer, looking to enhance my professional experience. I'm skilled with HTML5, CSS3, JavaScript, Jquery, Python, PHP, WordPress, Elementor-Pro, Divi, Ecommerce, Woocommerce website etc.</p>
+
+                    <p>My strengths are being hard-working, easily adaptable to any kind of environment, and being honest. Punctuate, self-motivated and team worker. But my weakness is I am not comfortable until I finished my work in the given time.</p>
+
+                    <p>My short-term goal is to get a job in a reputed company in which I can grow my working skills and get more and more knowledge and gain financial independence. Besides my long-term goal is to become a more responsible and knowledgeable personality.</p>
+
+                    <p>I am a person who is positive about every aspect of life. There are many things I like to do, see, and experience. I like to read, I like to write; I like to think, I like to dream; I like to talk, I like to listen. I like to see the sunrise in the morning, I like to see the moonlight at night. And to mention that coding is my all-time favorite.</p>
+                    <a href='https://docs.google.com/document/d/1m0TKmhUw-T3iyjweDtev0p7_iCF0-doKrbncceVq0uk/edit?usp=sharing' target="_blank" className='btn mt-12 border-primary text-primary px-10 hover:border-primary hover:bg-emerald-100/25'>Download Resume</a>
+                </div>
+
+            </div>
         </div>
     );
 };

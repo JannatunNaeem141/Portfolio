@@ -1,0 +1,13 @@
+.imgBox {
+    width: 400px;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 0px #0a192f, inset -13px -13px 32px #62fad7;
+    ;
+}
+
+.imgBox img {
+    width: 100%;
+    border: 10px solid transparent;
+    border-radius: 5px;
+}
