@@ -9,7 +9,7 @@ module.exports = {
         portfoliotheme: {
           primary: "#64ffda",
           secondary: "#ccd6f6",
-          accent: "#0A192F",
+          accent: "#8892b0",
         },
       },
     ],
