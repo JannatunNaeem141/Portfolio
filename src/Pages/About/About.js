@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Home = () => {
+const About = () => {
     return (
         <div className='h-screen max-w-7xl mx-auto'>
-            <h2>This is home.</h2>
+            <h2>This is About page.</h2>
         </div>
     );
 };
 
-export default Home;
+export default About;
