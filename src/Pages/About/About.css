@@ -13,7 +13,6 @@
 }
 
 .social-links {
-
     text-align: center;
 }
 
@@ -44,4 +43,30 @@
 
 .social-links a:hover {
     background-color: rgb(209 250 229 / 0.25);
+}
+
+@media only screen and (max-width:576px) {
+    .imgBox {
+        width: 300px;
+    }
+
+    .displayGrid {
+        display: grid;
+        justify-content: center;
+    }
+
+    .social-links {
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width:577px) and (max-width:992px) {
+    .displayGrid {
+        display: grid;
+        justify-content: center;
+    }
+
+    .social-links {
+        margin-bottom: 20px;
+    }
 }
