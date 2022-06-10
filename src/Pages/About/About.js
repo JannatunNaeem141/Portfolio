@@ -22,7 +22,7 @@ const About = () => {
                         </div>
                     </div>
                     <div className='w-3/5 ml-5 text-accent'>
-                        <p><span className='text-secondary'>Hi! My name is Naeem. I am a full-stack web developer,</span> looking to enhance my professional experience. I'm skilled with HTML5, CSS3, JavaScript, Jquery, Python, PHP, WordPress, Elementor-Pro, Divi, Ecommerce, Woocommerce website etc.</p>
+                        <p><span className='text-secondary'>Hi! My name is Naeem. I am a full-stack web developer,</span> looking to enhance my professional experience. I'm skilled with JavaScript, ReactJS, NodeJS, ExpreessJS, MongoDB, Tailwind, Bootstrap, Firebase, HTML5, CSS3 etc.</p>
 
                         <p>My strengths are being hard-working, easily adaptable to any kind of environment, and being honest. Punctuate, self-motivated and team worker. But my weakness is I am not comfortable until I finished my work in the given time.</p>
 
