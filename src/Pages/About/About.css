@@ -3,11 +3,45 @@
     padding: 8px;
     border-radius: 5px;
     box-shadow: inset 0px 0px 0px #0a192f, inset -13px -13px 32px #62fad7;
-    ;
+    margin-bottom: 20px;
 }
 
 .imgBox img {
     width: 100%;
     border: 10px solid transparent;
     border-radius: 5px;
+}
+
+.social-links {
+
+    text-align: center;
+}
+
+.social-links a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 4px;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    background-color: #fff;
+}
+
+.social-links a i {
+    line-height: 40px;
+    color: #0a192f;
+}
+
+.social-links a::after {
+    border-radius: 50%;
+}
+
+.social-links a:hover i {
+    color: #00ffc3;
+}
+
+.social-links a:hover {
+    background-color: rgb(209 250 229 / 0.25);
 }
