@@ -1,0 +1,6 @@
+.commonBtn {
+    background: #0A192F;
+    -webkit-box-shadow: 14px 14px 24px #060c1d,
+        -14px -14px 24px #1a2e75;
+    box-shadow: 19px 8px 16px #060c1d, 2px 0px 10px #00ffc3;
+}

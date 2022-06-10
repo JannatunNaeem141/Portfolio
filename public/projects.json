@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "name": "Manufacturer site - SkateHouseBD",
+        "description": "This is an Inline Skate Manufacturer site of SkateHouseBD. This is made with ReactJS. For more technologies on this site, please look down below. On the Home page of this site, we have a nav-bar section with 6 pages of nav links. Down to the recent section of the nav-bar, we have a Banner section, a Popular Choice section, Customer Reviews, our Policies, our Business Summary, Newsletter, and Footer section. On the Products page, we have cards of skate parts where a button named 'Buy Now' takes you to this part-details page which is protected. That means you have to log in first to go to the checkout page. On the part details page, you should write your order quantity. On the blogs page, you will know about how to improve the performance of a React Application, different ways to manage a state, How prototypical inheritance work, Unit test, etc. After that, we have a Dashboard Route(Protected). In this route we have a user profile section. Where the user will see and edit his profile. In Dashboard, we have to Add a Review and My orders route for normal users. And Make admin, Add A Product, Manage all Products and Manage All orders route for Admin. And then we have a Portfolio route. Here you will know about me and my recent projects. At last, we have a Login page where you will find a form. At the bottom, you will have a Register button if anybody is new to this site. These forms have many features. Such as Email verification, error handling, resetting password, etc.",
+        "img1": "https://i.ibb.co/qrGsr0C/Skate-House-front.png",
+        "img2": "https://i.ibb.co/wckKGhr/Skate-House-full.png",
+        "img3": "https://i.ibb.co/LtGRk0N/Skate-House1.png",
+        "img4": "https://i.ibb.co/FKqmz5k/Skate-House2.png",
+        "github": "https://github.com/JannatunNaeem141/SkateHouse",
+        "live": "https://skate-house-bd.web.app/"
+    },
+    {
+        "id": "2",
+        "name": "Warehouse site - FurnitureHut",
+        "description": "This is a warehouse site of FurnitureHut. This is made with ReactJS. For more technologies on this site, look down below. On the Home page of this site, we have a nav-bar section with 4 pages of nav links. Down to the recent section of the nav-bar, we have a Banner section and then a Popular Choice section, and then the Contact and Footer section. On the All Furniture page, we have cards of Furniture where a button named 'Stock Update' take you to the furniture-details page which is protected. That means you have to log in first to go to the checkout page. On the furniture details page, you can deliver or re-stock the selected furniture. On the blogs page, you will know about the Difference between JavaScript & NodeJs, SQL & NoSQL, and some important things about NodeJs, MongoDB, and JWT. And we have an About Add Furniture page, where you can add new furniture to this warehouse. And then we have a Manage All page, where you will see a table of all furniture and a delete button to the right that deletes individual furniture. At last, we have Login page where you will find a form. At the bottom, you will have a Register button if anybody is new to this site. These forms have many features. Such as Email verification, error handling, resetting the password, etc.",
+        "img1": "https://i.ibb.co/ZVDL1mf/Furniture-Hut-front.png",
+        "img2": "https://i.ibb.co/jH2GBgk/Furniture-Hut-full.png",
+        "img3": "https://i.ibb.co/bK5yTWP/Furniture-Hut1.png",
+        "img4": "https://i.ibb.co/VV1NxmT/Furniture-Hut2.png",
+        "github": "https://github.com/JannatunNaeem141/FurnitureHut",
+        "live": "https://furniturehut-4239e.web.app/"
+    },
+    {
+        "id": "3",
+        "name": "Corporate Sales Trainer site - ALLENCORP",
+        "description": "This site is for a 'Corporate Sales Trainer'. This is made with ReactJS. For more technologies on this site, look down below. On the Home page of this site, we have a nav-bar section with 3 pages of nav links. Down to the recent section of the nav-bar, we have a Banner section and then a Quote section and then Services and Footer section. On the Services page, we have cards of services where a button named 'know more' takes you to the checkout page which is protected. That means you have to log in first to go to the checkout page. On the blogs page, you will know about the Difference between authorization & authentication and some important things about Firebase. And we have an About developer page, where you will know about me as a developer of this site. At last, we have a Login page where you will find a form. At the bottom, you will have a Register button if anybody is new to this site. These forms have many features. Such as Email verification, error handling, resetting password, etc.",
+        "img1": "https://i.ibb.co/NKX6zqk/Allencorp-front.png",
+        "img2": "https://i.ibb.co/ygYNrLM/Allencorp-full.png",
+        "img3": "https://i.ibb.co/grVZ4wK/Allencorp1.png",
+        "img4": "https://i.ibb.co/f9jTvJx/Allencorp2.png",
+        "github": "https://github.com/JannatunNaeem141/ALLENCORP",
+        "live": "https://corporate-sales-trainer.web.app/."
+    }
+]
