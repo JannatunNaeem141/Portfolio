@@ -1,0 +1,16 @@
+.commonItem {
+    padding: 50px 100px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    background: #0A192F;
+    -webkit-box-shadow: 14px 14px 24px #060c1d,
+        -14px -14px 24px #1a2e75;
+    box-shadow: 22px 10px 15px #060c1d, -1px -4px 19px #00ffc3;
+}
+
+.inputField {
+    background: #0A192F;
+    -webkit-box-shadow: 14px 14px 24px #060c1d,
+        -14px -14px 24px #1a2e75;
+    box-shadow: 19px 8px 16px #060c1d, 2px 0px 10px #00ffc3
+}
