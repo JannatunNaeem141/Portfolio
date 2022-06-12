@@ -13,7 +13,8 @@ const Project = ({ project }) => {
             <div className=''>
                 <div className='w-full'>
                     <div className='w-full'>
-                        <Link to={`/project/${id}`}><img src={img1} alt="" className='mb-4 h-96' /></Link>
+                        {/* <Link to={`/project/${id}`}><img src={img1} alt="" className='mb-4 h-96' /></Link> */}
+                        <Link to=''><img src={img1} alt="" className='mb-4 h-96' /></Link>
                     </div>
                     <div>
                         <p className='text-xl text-secondary mb-5'>{name}</p>

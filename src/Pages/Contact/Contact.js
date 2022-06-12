@@ -28,17 +28,18 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className='grid grid-cols-1 lg:flex mt-12 mx-5 lg:mx-0 md:mx-0'>
-                    <div className='w-1/2 grid w-full'>
+                    <form className='w-1/2 grid w-full'>
                         <input type="text" placeholder='Name' className='h-11 text-base outline-none inputField mb-6 rounded-3xl py-4 px-5' />
                         <input type="email" placeholder='Email' className='h-11 text-base outline-none inputField mb-6 rounded-3xl py-4 px-5' />
                         <input type="text" placeholder='Subject' className='h-11 text-base outline-none inputField mb-6 rounded-3xl py-4 px-5' />
-                    </div>
-                    <div className='w-1/2 w-full'>
+                    </form>
+                    <form className='w-1/2 w-full'>
                         <textarea name="" id="" cols="30" rows="10" placeholder='Message' className='w-full lg:ml-6 h-44 p-4 resize-none rounded-3xl outline-none inputField'></textarea>
-                    </div>
+                    </form>
+
                 </div>
                 <div className='w-full '>
-                    <Link to='' className='btn mt-6 border-primary text-primary px-10 hover:border-primary hover:bg-emerald-100/25 float-right mr-5 lg:mr-0 md:mr-0'>Send Message</Link>
+                    <Link to='' type='submit' className='btn mt-6 border-primary text-primary px-10 hover:border-primary hover:bg-emerald-100/25 float-right mr-5 lg:mr-0 md:mr-0'>Send Message</Link>
                 </div>
             </div>
         </div>
